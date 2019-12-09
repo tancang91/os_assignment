@@ -1,3 +1,6 @@
+# LSP
+.ccls-cache/
+
 # Prerequisites
 *.d
 
